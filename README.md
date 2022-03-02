@@ -3,4 +3,4 @@
 
 ![sreenshot](screenshot.jpg)
 
-Fun fact : je n'ai pas toucher à un jeu vidéo depuis 10 ans ^^
+Fun fact : je n'ai pas touché à un jeu vidéo depuis 10 ans ^^

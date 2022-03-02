@@ -1,5 +1,6 @@
 ### page HTML/CSS
 #### servant présentation de streameur
+Juste un peu de CSS pour jouer avec les transparences, les flous, ce qui se rapporte au verre disons.
 
 ![sreenshot](screenshot.jpg)
 

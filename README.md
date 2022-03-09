@@ -1,7 +1,7 @@
 ### page HTML/CSS
 #### servant de landing page de gamer
-Juste un peu de CSS pour jouer avec les transparences, les flous, ce qui se rapporte au verre disons.
+Un peu de CSS pour me faire la main sur les transparences, les flous, ce qui se rapporte au effets de verre.
 
 ![sreenshot](screenshot.jpg)
 
-Fun fact : je n'ai pas touché à un jeu vidéo depuis 10 ans ^^
+NB : Je n'y connais rien en jeux vidéos

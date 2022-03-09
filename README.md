@@ -4,4 +4,4 @@ Un peu de CSS pour me faire la main sur les transparences, les flous, ce qui se 
 
 ![sreenshot](screenshot.jpg)
 
-NB : Je n'y connais rien en jeux vidéos
+NB : Je n'y connais rien en jeux vidéo
